@@ -140,7 +140,9 @@ Now again , go to the Lambda console and then test the code.
 
 
 ![a30](https://github.com/itz-mathesh/serverless-ec2-scheduler/assets/144098846/8eec38a6-ec9b-4421-8911-8d3adf1247ca)
-#### Note : Keep your rule name as "start-ec2-rule" , I mistakenly named it 'role' Please do not name it as 'role.'
+
+
+### Note : Keep your rule name as "start-ec2-rule" , I mistakenly named it 'role' Please do not name it as 'role.'
 
 
 
@@ -190,4 +192,5 @@ Now again , go to the Lambda console and then test the code.
 
 ![b11](https://github.com/itz-mathesh/serverless-ec2-scheduler/assets/144098846/d6b5a3df-75d1-47ac-9b9c-4a6ce73854b1)
 
+![46](https://github.com/TheMannu/serverless-ec2-scheduler/assets/84488161/607c6dfa-d8d8-44c3-bb4e-87858227a72c)
 
