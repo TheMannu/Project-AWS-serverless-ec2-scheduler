@@ -2,8 +2,7 @@
 ## Scenario :
 In some companies, there is no need to run their EC2 instances 24/7; they require instances to operate during specific time periods, such as company working hours, from 8:00 AM in the morning to 5:00 PM in the evening. To address this scenario, I will implement two Lambda functions responsible for starting and stopping instances. These Lambda functions will be triggered by two CloudWatch Events in the morning and evening. This solution is fully serverless.
 
-![Blank diagram](https://github.com/itz-mathesh/serverless-ec2-scheduler/assets/144098846/287063a4-964a-4f8![1](https://github.com/TheMannu/serverless-ec2-scheduler/assets/84488161/c59505e1-947d-46a6-bc0b-690442f0d695)
-b-b88e-25535b7f4691)
+![Blank diagram](https://github.com/TheMannu/serverless-ec2-scheduler/assets/84488161/c59505e1-947d-46a6-bc0b-690442f0d695)
 
 
 ## Steps :
