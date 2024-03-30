@@ -156,23 +156,19 @@ Now again , go to the Lambda console and then test the code.
 
 ![b2](https://github.com/itz-mathesh/serverless-ec2-scheduler/assets/144098846/70f29eaa-73fc-49ec-9c39-a6d1214d14f3)
 
-
-![b3](https://github.com/itz-mathesh/serverless-ec2-scheduler/assets/144098846/8935ecd6-ce42-4347-b48c-3b5564679c03)
-
-
-![b4](https://github.com/itz-mathesh/serverless-ec2-scheduler/assets/144098846/7cd915a1-573c-4822-b7c0-ff588521527a)
+![37](https://github.com/TheMannu/serverless-ec2-scheduler/assets/84488161/26ba8e11-975a-4015-83e8-1be76a7b938e)
 
 
-![b5](https://github.com/itz-mathesh/serverless-ec2-scheduler/assets/144098846/0ef48fa1-bcf8-41c4-a729-7a5d5555fd05)
+![40](https://github.com/TheMannu/serverless-ec2-scheduler/assets/84488161/08643b37-7bf5-4fec-a2fe-aa9a88fb6af5)
 
 
-![b6](https://github.com/itz-mathesh/serverless-ec2-scheduler/assets/144098846/1d11c5b3-a734-470c-bdf5-ab29d6f3f14c)
+
+![42](https://github.com/TheMannu/serverless-ec2-scheduler/assets/84488161/17a135f4-97dd-4814-989e-f1785276bf29)
 
 
-![b7](https://github.com/itz-mathesh/serverless-ec2-scheduler/assets/144098846/ea584d14-d997-46d7-b1ec-f07cb88a9ede)
 
+![43](https://github.com/TheMannu/serverless-ec2-scheduler/assets/84488161/495d1e01-d0ce-4e57-93f8-a2c1f6d07494)
 
-![b8](https://github.com/itz-mathesh/serverless-ec2-scheduler/assets/144098846/b76d4878-b391-4d9c-9b12-07b1b1ebfb5d)
 
 
 3. We have now created a schedule for starting the instance every day at 8:00 AM.<br>
@@ -181,16 +177,15 @@ Now again , go to the Lambda console and then test the code.
 6. The changes include modifying the scheduled time and selecting the appropriate scheduling function.<br>
 7. We need to change the schedule time to 17:00 because it will stop the Lambda function at 17:00 IST (5:00 PM).
 
-![b9](https://github.com/itz-mathesh/serverless-ec2-scheduler/assets/144098846/103c0f33-6036-4f3d-ac3f-875811cae174)
+![44](https://github.com/TheMannu/serverless-ec2-scheduler/assets/84488161/303b69c5-66a1-4691-8146-b375a7482b9c)
 
 8. We have to Change the Function as Stop-EC2-demo
 
-![b10](https://github.com/itz-mathesh/serverless-ec2-scheduler/assets/144098846/149a3faa-dea1-437c-bc3d-4515fb70dd5f)
+![B 45](https://github.com/TheMannu/serverless-ec2-scheduler/assets/84488161/c8a48827-bf46-4e30-9ce2-2140fd69e643)
+
 
 9. Now, we have successfully created two schedules: one to start the instance every day at 8:00 AM and the other to stop the instance every day at 5:00 PM.
 
 
-![b11](https://github.com/itz-mathesh/serverless-ec2-scheduler/assets/144098846/d6b5a3df-75d1-47ac-9b9c-4a6ce73854b1)
-
-![46](https://github.com/TheMannu/serverless-ec2-scheduler/assets/84488161/607c6dfa-d8d8-44c3-bb4e-87858227a72c)
+![B 46](https://github.com/TheMannu/serverless-ec2-scheduler/assets/84488161/607c6dfa-d8d8-44c3-bb4e-87858227a72c)
 
